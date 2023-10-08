@@ -1,0 +1,8 @@
+Machine Learning Defination:
+- Machine learning is a field of computer science that uses statistical techinques to give computer system the ability to "learn" without being explicitly programmed.
+
+Traditional programming vs Machine learning:
+1. Traditional Programming: In traditional programming we have to provide data and program/code to the computer system, and the computer provides us the output.
+2. Machine learning : In machine learning we provide input data and output data to the computer system, and the computer provides us a program/cde. (machine learning algorithm automatically detect patterns from the data given and give us the program without being explicitly programmed. which we can run and make predictions by giving some other data,the machine learning program/algo. answers based on the patterns found in the input data and corresponding output data)
+eg. we have 3 columns ('cgpa' , 'iq' , 'placement'), here 'cgpa' & 'iq' are independent values(inputdata), and 'placement' is dependent value(outputdata)
+machine learning program automatically learns which type of students with what type of iq are getting placement, and when we put our new data into the progrsm it gives predictions weather the person will get placement or not by comparing cgpa and iq of the person with previous data.
