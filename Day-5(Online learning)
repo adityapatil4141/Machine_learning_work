@@ -1,0 +1,16 @@
+# Online learning:
+- Online learning is done on server.
+- In online learning we train model dynamically on server.
+- As new data comes, performance of model increases.
+- DATA -----> MODEL -----> TEST------> SERVER <---(NEW DATA)
+- We do incremental learning, we train model sequentially (in mini batches)
+
+## When to use:
+- Where nature of problem changes.
+- eg. stock exchange.
+- Cost effective.
+- Faster solution.
+
+## Libraries:
+- River.
+- Vowpal wabbit.
