@@ -1,0 +1,41 @@
+1. Frame the problem:
+- To decide what exactly to do .
+- Have to look on the cost, problem, what to solve, who is the customer,team required, supervised/unsupervised model etc.
+
+2. Gathering Data:
+- .CSV , API, Web Scrapping , DataWarehouse(ETL)
+
+3. Data Preprocessing:
+- We can get uncleaned data.
+- Remove duplicate, missing values etc..
+
+4. Exploratory Data Analysis(EDA):
+- Experiment on data.
+- Finding hidden relationships between data.
+- Univariate , Bivariate , Multivariate analysis.
+
+5. Feature Engineering and selection:
+- Feature = Input columns.
+- Creating new columns which will simplify analysis.
+
+6. Model Training, Evaluation and selection:
+- Ensemble learning - combining ML models and making a new powerful algorithm/model.
+
+7. Model Deployment:
+- Pikle file
+- We make a binary file from the model & convert it into an API.
+
+8. Testing:
+- Sending new feature to trusted customers to get feedback.
+- Techinque used - A/B testing.
+- If not good model , Repeat process again from start.
+
+9. Optimize:
+- Take back-up of the model,
+- Take back-up of the data,
+- Load balancing,
+- Decide how frequently retrain to be done,
+- To make entire process perfect.
+
+
+
