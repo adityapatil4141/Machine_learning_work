@@ -1,0 +1,16 @@
+# Instance Based Learning :
+- The model that mugs the data.
+- There is no concept of training and learning.
+- nstance based learning basically finds similarities.
+- No model is implemented
+- Uses KNN logic
+- Eg. KNN,Kernal function.
+
+
+# Model Based Learning:
+- The model which trys to extract underlying principles from the data.
+- It understands the behaviour of day given, by drawing a amathematical function.
+- It will draw a boundary.
+- Doesn't even need data points.
+- Eg. Linear regression, Logistic Regression , Decision Tree
+- Focuses on rules.
