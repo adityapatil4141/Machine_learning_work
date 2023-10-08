@@ -1,0 +1,93 @@
+# Types of machine learning:
+1. Supervised learning:
+    1. Regression,
+    2. Classification.
+
+2. Unsupervised learning:
+    1. Clustering,
+    2. Dimensionality Reduction,
+    3. Association Rule,
+    4. Anomaly Detection.
+
+3. Semi-supervised learning:
+
+4. Reinforcement:
+
+
+# Supervised machine learning:
+- If our dataset have both input and output data and we have to understand relationship between input and output and do prediction on new input data then supervised learning is used.
+- Supervised learning have labeled data.
+
+## Regression :
+- In this algorithm we try to find the best fit line which can represent the over-all trend in the data.
+- Continuous numerical values.
+- 1.stock prediction , 2.house price prediction.
+- types of Regresssion Algorithm:
+    1.Lasso regression
+    2.Ridge regression
+    3.LGBM regressor
+
+## Classification :
+- In this algorithm we try to find best decision boundary which seperates the two classes with the maximum possible seperation.
+- Categorical values.
+- eg. 1.Spam detection , 2.image recognition.
+- Types of Classification algorithm:
+    1. KNearest
+    2. RandomForestClassifier
+    3. DecisionTree
+
+
+# Unsupervised machine learning:
+- We have only input data.
+- We have unlabelled data.
+
+## Clustering:
+- Makes Groups.
+- eg. Detects which student comes under one group.
+- By this one can create labelled for supervised learning.
+
+## Dimensionality Reduction:
+- Dimensions = Columns,
+- Dimensionality reduction means reducing columns from the dataset by removing the columns.
+- Or by making one column using two column.
+- Eg. column1 = 'room_area'
+      column2 = 'washroom_area'
+      we can convert column1&2 in column_sq_ft = 'Sq_ft_area'
+
+## Anomaly Detection:
+- Detecting anything unusual.
+- Detecting outliers and remove them from the system.
+- Usecase = Stock market predection.
+
+## Association Rule Learning:
+- We fetch data and draw conclusions.
+- Eg. which product should be kept on side of which product in a supermarket based on buying behaviour of customer. this is where association rule is used(to          associate things with each other)
+
+# Semi-supervised learning:
+- Partially supervised and partially unsupervised.
+- Eg. In google photos it clusters images according to similar face ,and asks us to name that cluster. when we name that cluster it gives all those unnamed photos the name that we gave to the cluster.
+
+# Reinforcement learning:
+- System do not have any data.
+- Starts learning from scratch.
+- Learns from environment and rewards itself when right move is taken.
+- Eg. Self driving car.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
