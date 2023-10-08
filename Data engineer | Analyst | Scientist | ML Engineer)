@@ -1,0 +1,122 @@
+1. Data Engineer:
+~Job Role:
+  - Scrape data from the given sources.
+  - move/store the data in optimal server.
+  - Build Data pipelines/API for easy access to the data.
+  - handle databases( periodic mainteinance).
+  - to make data warehouse form database.
+
+~Skills Required:
+  - Gasp of DSA.
+  - JAVA/R/PYTHON/SCALA and SCRIPT WRITING.
+  - Advanced DBMS.
+  - Big Data Tools(Apache spark , Hadoop, Apache Kafka, Apache Hive).
+  - Cloud Platforms (AWS, GCP).
+  - Distributed systems.
+  - Data pipelines.
+
+2. Data Analyst:
+~Job Role:
+  - Cleaning and organizing raw data.
+  - analyzing data to derieve insights.
+  - creating data visualizations.
+  - producing and maintaining reports.
+  - collaborating with teams/colleagues based on the insights gained.
+  - optimizing data collection procedures.
+
+~Skills Required:
+  - Statistical programming.
+  - R/SAS/Python [SAS = Statistical Analysis Software].
+  - creative and analytical thinking.
+  - Business Accumen.
+  - strong communication skills.
+  - data mining, cleaining and munging.
+  - data visualization.
+  - Data story telling.
+  - SQL.
+  - Advanced MS Excel.
+
+
+3. Data Scientist:
+~Job Role:
+  - "A guy who knows all"
+  - Can do data engineers work etc..
+  - makes predictions.
+
+~Skills Required:
+  - Mathematics(Advanced).
+  - Analytical thinking.
+  - Communication skills.
+  - Computer vision.
+
+
+4. ML Engineer:
+~ Job Role:
+  - Deploying a ML model to production ready environment.
+  - Scaling and optimizing the model for production.
+  - Monitoring and maintenance of deployed model.
+
+~ Job Role:
+  - Mathematics.
+  - Programming language.
+  - Distributed system.
+  - Data models and evaluation.
+  - Machine learning models.
+  - Software engeering and systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
