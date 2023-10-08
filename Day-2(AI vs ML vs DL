@@ -1,0 +1,15 @@
+Artificial Intelligence(AI):
+- Making machines intelligent.
+- In this we deal with pattern recognition(Ai stuff)
+
+Machine Learning(ML):
+- Statistical techinque used to find patterns from data.
+- Rather than writing rules for everyting, just provide data and rules will be generated automatically.
+
+Deep Learning(DL):
+- Similar to machine learning no difference.
+- Different algorithm.
+- Inspired by human biology(neurons).
+- Core unit perceptron is based on biological neuron.
+- Used on big data.
+- Machine learning is relatively used on small data.
