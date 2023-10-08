@@ -1,0 +1,13 @@
+# Batch/ offline learning:
+- Way of training a model where we can use all data together to train a model.
+- Training is done in lot and not is small parts.
+- Training is done on an offline system and once the model is trained then model is deployed on server.
+- If we train huge amount of data on server it would be costly and time consuming, insted we do batch learning.
+
+DATA---->MODEL----->TEST---->SERVER
+
+## Problem:
+- Once trained it does not learn anything new.
+- Works only on trained data.
+- Business scenerio evolves but the trained model will be old.
+- We have to retrain the model periodically.
